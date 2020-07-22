@@ -1,0 +1,16 @@
+json
+string
+collections
+Counter
+re 
+matplotlib.pyplot 
+plt
+nltk
+nltk.corpus 
+stopwords
+nltk.sentiment.vader 
+SentimentIntensityAnalyzer
+nltk.stem 
+WordNetLemmatizer
+nltk.tokenize 
+word_tokenize
